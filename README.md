@@ -1,0 +1,2 @@
+# wiki_tutorial01
+Besiege wiki (公式Discord日本コミュニティまとめwiki)のmod製作チュートリアルページにおけるサンプルmodのソースコードです。
