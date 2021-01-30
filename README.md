@@ -1,2 +1,8 @@
 # wiki_tutorial01
 Besiege wiki (公式Discord日本コミュニティまとめwiki)のmod製作チュートリアルページにおけるサンプルmodのソースコードです。
+これをBesiege内で動かしたい場合は、サンプルをDL後、wiki_tutorial01 Projectフォルダを作ってから、サンプルを以下のようにおいてください。
+
+Besiege/Besiege_Data/Mods/wiki_tutorial01 Project/src
+Besiege/Besiege_Data/Mods/wiki_tutorial01 Project/wiki_tutorial01
+
+当然ですが、このmodをワークショップにアップロードすることは固く禁止します。
